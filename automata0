@@ -1,0 +1,4 @@
+!git clone https://github.com/sakshimaan/Msc
+!cp Msc/automata.py .
+!sudo apt-get install graphviz graphviz-dev
+!pip install pygraphviz
